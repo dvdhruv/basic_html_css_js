@@ -1,8 +1,4 @@
 # Basic_HTML_CSS_JS
-
-
-I have given a project in our colege to make a project which have user and admin page 
-hope you like my work
-
-start with login
-id passward you can see in the code.
+We had been given a project in our college which was to have a user and admin page.
+Hope you like my efforts!!
+Just start with the login page, enter your username and id and follow the flow of control.
